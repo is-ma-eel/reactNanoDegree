@@ -1,2 +1,0 @@
-# reactNanoDegree
-Created with CodeSandbox
